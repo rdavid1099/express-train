@@ -1,0 +1,15 @@
+{
+  "name": "express-train",
+  "version": "1.0.0",
+  "description": "express, mocha, chai",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdavid1099/express-train.git"
+  },
+  "author": "Workman, Ryan",
+  "license": "MIT"
+}
